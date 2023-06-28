@@ -20,6 +20,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,8 +29,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en" alt="jeffersoncardoso31" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncardoso31&theme=dark" alt="jeffersoncardoso31" /></p>
