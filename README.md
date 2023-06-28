@@ -32,7 +32,9 @@
   
 </div>
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en" alt="jeffersoncardoso31"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncardoso31&theme=dark" alt="jeffersoncardoso31"/>
+</div>
 
-<p align = "left">&nbsp;<img align="center" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en" alt="jeffersoncardoso31" /></p>
-<p  align = "right"><img align="center" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31" /></p>
-<p  align = "center"><img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncardoso31&theme=dark" alt="jeffersoncardoso31" /></p>
