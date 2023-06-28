@@ -1,27 +1,32 @@
 ![banner](https://github.com/jeffersoncardoso31/jeffersoncardoso31/blob/main/banner.jpg)
 <h1 align="center">Olá👋, eu sou Jefferson Cardoso</h1>
-<h3 align="center">Estou em busca de conhecimento para adquirir experiência.</h3>
+<h3 align="center">Estou em busca da minha primeira oportunidade como desenvolverdor front-end Júnior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersoncardoso31&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersoncardoso31" /> </p>
 
-- 🌱 Atualmente estou me aperfeiçoando em **Html, CSS e JavaScript**
-
-- 👯 Estou estudando Front-end **Desenvolvimento de sites**
+- 🌱 Atualmente estou me aperfeiçoando em **react**
 
 - 👨‍💻 Todos os meus projetos estão em [https://github.com/jeffersoncardoso31](https://github.com/jeffersoncardoso31)
 
-- 💬 Pergunte-me sobre **Html, CSS e JavaScript**
+- 💬 Pergunte-me sobre **html, css, javascript e react**
 
 - 📫 Contato **jeffersoncardoso31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jeffersoncardoso19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeffersoncardoso19" height="30" width="40" /></a>
-<a href="https://instagram.com/jeffcardoso31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffcardoso31" height="30" width="40" /></a>
-</p>
+<div> 
+  <a href = "mailto:jeffersoncardoso31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-cardoso-6b755019a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31" /></p>
 
