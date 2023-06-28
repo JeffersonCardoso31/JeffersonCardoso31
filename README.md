@@ -27,14 +27,12 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
 </div>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en" alt="jeffersoncardoso31"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncardoso31&theme=dark" alt="jeffersoncardoso31"/>
+<div margin-top = "20">
+  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en" alt="jeffersoncardoso31"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersoncardoso31&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeffersoncardoso31"/>
+  <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncardoso31&theme=dark" alt="jeffersoncardoso31"/>
 </div>
 
