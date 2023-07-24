@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou me aperfeiçoando em **react**
 
-- 👨‍💻 Todos os meus projetos estão em [https://github.com/jeffersoncardoso31](https://github.com/jeffersoncardoso31)
+- 👨‍💻 Portfólio: <a href = "https://jeffersoncardoso31.github.io/portfolio/">Jefferson Cardoso</a>
 
 - 💬 Pergunte-me sobre **html, css, javascript e react**
 
