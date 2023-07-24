@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou me aperfeiçoando em **react**
 
-- 👨‍💻 Portfólio: <a href = "https://jeffersoncardoso31.github.io/portfolio/">Jefferson Cardoso</a>
+- 👨‍💻 Portfólio: <a href = "https://jeffersoncardoso31.github.io/portfolio/" target="_blank">Jefferson Cardoso</a>
 
 - 💬 Pergunte-me sobre **html, css, javascript e react**
 
